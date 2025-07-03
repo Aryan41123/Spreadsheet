@@ -21,7 +21,7 @@ A dynamic, spreadsheet-style UI built with **React** and **Tailwind CSS**, suppo
 
 ## 🧑‍💻 Tech Stack
 
-- React (with Hooks)  
+- React
 - TypeScript  
 - Tailwind CSS  
 
@@ -109,7 +109,7 @@ npm install
 npm run dev
 ```
 
-> App runs at: [http://localhost:5173](http://localhost:5173)
+> App runs at: [http://localhost:5173]
 
 ---
 
