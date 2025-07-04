@@ -1,7 +1,7 @@
-import React, { useState, useRef, useEffect, useCallback } from "react";
-import TopNavBar from "./components/TopNavBar";
-import Toolbar from "./components/Toolbar";
-import BottomNavBar from "./components/BottomNavBar";
+import React, { useState, useRef, useCallback } from "react";
+import TopNavBar from "./Components/TopNavBar";
+import Toolbar from "./Components/Toolbar";
+import BottomNavBar from "./Components/BottomNavBar";
 
 // Helpers
 const getStatusClasses = (status: string): string => {
